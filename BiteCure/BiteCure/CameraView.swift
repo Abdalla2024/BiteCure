@@ -19,7 +19,6 @@ struct CameraView: View {
     @State private var showingImagePicker = false
     @State private var selectedImage: UIImage?
     @StateObject private var aiService = AIService()
-    @StateObject private var aiService = AIService()
     
     var body: some View {
         NavigationView {
