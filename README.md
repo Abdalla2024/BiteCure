@@ -131,7 +131,7 @@ BiteCure is an innovative iOS app that transforms grocery shopping with cutting-
 
 ## 🎨 Screenshots
 
-|                 Home Screen                  |                  Camera View                   |                     Results                     |
+|                 Home Screen                  |                  Camera View                   |
 | :------------------------------------------: | :--------------------------------------------: | :---------------------------------------------: |
 | <img src="screenshots/home.png" width="250"> | <img src="screenshots/camera.png" width="250"> | <img src="screenshots/results.png" width="250"> |
 
